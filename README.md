@@ -3,7 +3,7 @@
 常用的Docker File，使用以下命令构建镜像。
 
 ```shell
-docker build -t <镜像名称> https://raw.githubusercontent.com/Dwgoing/Dockerfiles/master/<镜像名称>/Dockerfile
+docker build -t <镜像名称> https://raw.githubusercontent.com/Dwgoing/Dockerfiles/master/<文件夹>/Dockerfile
 ```
 
 1. CentOS-SSH
